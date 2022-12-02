@@ -6,5 +6,8 @@ using System.Threading.Tasks;
 
 namespace StackUsingLinkedList_CSharp
 {
-    
+   class Node
+    {
+
+    }
 }
